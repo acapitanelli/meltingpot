@@ -14,7 +14,7 @@ except FileNotFoundError:
 
 setup(
     name='meltingpot',
-    version='1.0.0',
+    version='1.0.2',
     description=short_desc,
     author='andrea capitanelli',
     author_email='andrea.capitanelli@gmail.com',
@@ -32,6 +32,5 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3',
         'Topic :: Scientific/Engineering :: Artificial Intelligence'
-    ],
-    test_suite='tests'
+    ]
 )
