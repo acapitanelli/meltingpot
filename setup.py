@@ -14,7 +14,7 @@ except FileNotFoundError:
 
 setup(
     name='meltingpot',
-    version='1.0.2',
+    version='1.0.0',
     description=short_desc,
     author='andrea capitanelli',
     author_email='andrea.capitanelli@gmail.com',
